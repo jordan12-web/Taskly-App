@@ -1,16 +1,35 @@
-# taskly
+Taskly
+A simple to-do app built with Flutter and Hive for local task tracking.
+ Features
 
-A new Flutter project.
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Stores data locally using Hive
+- Clean and minimal UI
 
-## Getting Started
+  
+ Tech Stack
+- Flutter & Dart
+- Hive for local storage
 
-This project is a starting point for a Flutter application.
+📌 Future plans: notifications, categories, animations
 
-A few resources to get you started if this is your first Flutter project:
+ Screenshots
+<img width="434" height="924" alt="image" src="https://github.com/user-attachments/assets/a772392b-6f51-402c-8a64-3d4ca35d7231" />
+<img width="427" height="917" alt="image" src="https://github.com/user-attachments/assets/8744c651-cc1f-464f-a00e-a5e87aac7901" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+ What I Learned
+- Local persistence with Hive
+- Flutter state management basics
+- Building reusable widgets
+- Designing intuitive task flows
+
+  
+📁 How to Run
+flutter pub get
+flutter run
+
+
